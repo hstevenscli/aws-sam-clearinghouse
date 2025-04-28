@@ -10,3 +10,5 @@ Relevant Technologies:
 * SAM
 
 Look at [sam_local_instructions.md](./sam_local_instructions.md) for information on how to get a local testing environment set up for your AWS Lambda function
+
+![Command Line Example](./pics/aws_sam_readme.png)
